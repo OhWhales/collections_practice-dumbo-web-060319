@@ -21,7 +21,7 @@ def swap_elements(arr)
   z=arr[1]
   y=arr[2]
   x=arr 
-  z[1]=y 
-  z[2]=z 
-  return z
+  x[1]=y 
+  x[2]=z 
+  return x
 end 
