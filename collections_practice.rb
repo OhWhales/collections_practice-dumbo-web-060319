@@ -50,4 +50,5 @@ def find_a(arr)
     end 
     counter = counter + 1 
   end 
+  return newArr 
 end 
