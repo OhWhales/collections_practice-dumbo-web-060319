@@ -14,5 +14,5 @@ def sort_array_desc(arr)
 end 
 
 def sort_array_char_count(arr)
-  return arr.sort! {|w| w.length}
+  return arr.sort_by {|w| w.length}
 end 
