@@ -80,5 +80,5 @@ def add_s(arr)
     newArr.push(newWord)
     counter = counter + 1
   end 
-  
+  return newArr
 end 
