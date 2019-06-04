@@ -32,5 +32,8 @@ end
 
 def kesha_maker(arr)
   
-  
+  h=arr 
+  h.each do |word|
+    
+  end 
 end 
