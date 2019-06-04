@@ -9,5 +9,6 @@ end
 
 def sort_array_desc(arr)
   arr=arr.sort 
-  arr.reverse
+  return arr.reverse
+  
 end 
