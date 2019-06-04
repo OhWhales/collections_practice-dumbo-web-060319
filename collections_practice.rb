@@ -49,4 +49,5 @@ def find_a(arr)
       newArr.push(z)
     end 
     counter = counter + 1 
+  end 
 end 
