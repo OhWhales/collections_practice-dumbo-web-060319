@@ -62,5 +62,15 @@ def sum_array(arr)
   end 
   
   return sum 
+end 
+
+def add_s(arr)
   
+  newArr=[]
+  
+  counter = 0 
+  while (counter < arr.size) 
+    
+    
+  end 
 end 
