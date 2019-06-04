@@ -12,3 +12,7 @@ def sort_array_desc(arr)
   return arr.reverse
   
 end 
+
+def sort_array_char_count(arr)
+  return arr.sort 
+end 
