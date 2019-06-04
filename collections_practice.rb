@@ -72,6 +72,7 @@ def add_s(arr)
   while (counter < arr.size) 
     if counter == 1 
       newArr.push(arr[counter])
+      counter = counter + 1 
       next 
     end 
     newWord=arr[counter] 
