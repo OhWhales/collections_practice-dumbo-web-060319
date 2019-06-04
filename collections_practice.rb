@@ -70,7 +70,10 @@ def add_s(arr)
   
   counter = 0 
   while (counter < arr.size) 
-    
+    if counter == 1 
+      newArr.push(arr[counter])
+      next 
+    end 
     
   end 
 end 
