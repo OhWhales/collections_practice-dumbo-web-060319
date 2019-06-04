@@ -39,4 +39,14 @@ def kesha_maker(arr)
   return h 
 end 
 
-def find_a
+def find_a(arr)
+  newArr=[]
+  
+  counter = 0 
+  while (counter < arr.size) 
+    z=arr[counter]
+    if z[0] == "a"
+      newArr.push(z)
+    end 
+    counter = counter + 1 
+end 
