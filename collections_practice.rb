@@ -76,5 +76,6 @@ def add_s(arr)
     end 
     newWord=arr[counter] 
     newWord= newWord + "s"
+    newArr.push(newWord)
   end 
 end 
