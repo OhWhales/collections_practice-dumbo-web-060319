@@ -58,6 +58,7 @@ def sum_array(arr)
   counter = 0 
   while ( counter < arr.size) 
     sum = sum + arr[counter]
+    counter = counter + 1 
   end 
   
   return sum 
