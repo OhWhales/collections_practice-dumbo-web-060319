@@ -60,4 +60,6 @@ def sum_array(arr)
     sum = sum + arr[counter]
   end 
   
+  return sum 
+  
 end 
